@@ -1,4 +1,4 @@
-# 🚲 Bikcraft
+# 🚲 Bikecraft
 
 Projeto prático desenvolvido como parte do curso **HTML, CSS e JavaScript para Iniciantes** da [Origamid](https://www.origamid.com), ministrado por **André Rafael**, utilizando **HTML**, **CSS** e **JavaScript** para consolidar conceitos fundamentais de desenvolvimento web.
 
@@ -6,7 +6,7 @@ Projeto prático desenvolvido como parte do curso **HTML, CSS e JavaScript para 
 
 ## 📜 Objetivo
 
-O **Bikcraft** é uma página fictícia para apresentação e venda de bicicletas personalizadas.  
+O **Bikecraft** é uma página fictícia para apresentação e venda de bicicletas personalizadas.  
 O foco é colocar em prática os conceitos básicos de **estruturação HTML**, **estilização com CSS** e **interatividade com JavaScript**, cobrindo:
 
 - Estrutura semântica de páginas.
@@ -39,7 +39,7 @@ O foco é colocar em prática os conceitos básicos de **estruturação HTML**, 
 ├── orcamento.html
 ├── seguros.html
 ├── termos.html
-└── bikcraft-figma.fig     # Arquivo de design no Figma
+└── Bikecraft-figma.fig     # Arquivo de design no Figma
 ```
 
 ---
@@ -58,7 +58,7 @@ O foco é colocar em prática os conceitos básicos de **estruturação HTML**, 
 ## 📸 Layout
 
 O design do projeto foi inspirado e criado com base no **Figma**.  
-*(Você pode abrir o arquivo `bikcraft-figma.fig` no Figma para visualizar o layout original.)*
+*(Você pode abrir o arquivo `Bikecraft-figma.fig` no Figma para visualizar o layout original.)*
 
 ---
 
